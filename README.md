@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HimaTeju
-- 👀 I’m interested in 
-- 🌱 I’m currently learning C and C++ computer languages
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Developing Projects in C & C++ language.
+- 🌱 I’m currently learning DSA in C.
+- 💞️ I’m looking to collaborate on any projects which suits my profile.
 - 📫 How to reach me himateju21@gmail.com
 
 <!---
