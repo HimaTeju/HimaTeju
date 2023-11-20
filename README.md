@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/himateju-v-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himateju" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/himateju21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="himateju21" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/himteju21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himteju21" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/himateju21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himteju21" height="30" width="40" /></a>
 </p>
 </p>
 
